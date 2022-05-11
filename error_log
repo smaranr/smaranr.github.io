@@ -1,0 +1,12 @@
+[12-Mar-2017 19:00:52 Etc/GMT] PHP Notice:  Undefined variable: message in /home/smarkogj/public_html/mediaworks/email.php on line 26
+[12-Mar-2017 19:00:52 Etc/GMT] PHP Notice:  Undefined variable: url in /home/smarkogj/public_html/mediaworks/email.php on line 31
+[13-Mar-2017 11:18:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/smarkogj/public_html/mediaworks/email.php on line 31
+[13-Mar-2017 11:18:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/smarkogj/public_html/mediaworks/email.php on line 31
+[13-Mar-2017 11:18:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/smarkogj/public_html/mediaworks/email.php on line 31
+[13-Mar-2017 11:18:26 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/smarkogj/public_html/mediaworks/email.php on line 31
+[13-Mar-2017 11:18:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/smarkogj/public_html/mediaworks/email.php on line 31
+[13-Mar-2017 11:18:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/smarkogj/public_html/mediaworks/email.php on line 31
+[13-Mar-2017 11:18:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/smarkogj/public_html/mediaworks/email.php on line 31
+[13-Mar-2017 11:18:31 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/smarkogj/public_html/mediaworks/email.php on line 31
+[13-Mar-2017 11:18:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/smarkogj/public_html/mediaworks/email.php on line 31
+[13-Mar-2017 11:18:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '@' in /home/smarkogj/public_html/mediaworks/email.php on line 31
