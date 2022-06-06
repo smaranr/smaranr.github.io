@@ -1,13 +1,9 @@
 
 TITLE: 
-Hydrogen - Responsive Free HTML5 template
+Mediaworks - Photography,Videography
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
+DESIGNED & DEVELOPED by smaran rachakonda 
 
 CREDITS:
 
@@ -41,8 +37,7 @@ https://github.com/rnmp/salvattore
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
+
 
 
 
