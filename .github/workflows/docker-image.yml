@@ -1,16 +1,15 @@
 name: push to docker hub
 
-on: push
-
+on: 
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  
 
 jobs:
-  build:
-    
+  push_to_registry:
+    name: Push Docker image to Docker Hub
     runs-on: ubuntu-latest
+  
     steps:
       -
         name: Login to Docker Hub
